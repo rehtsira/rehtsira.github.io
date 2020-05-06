@@ -1,17 +1,17 @@
 # Site settings
 title: rehtsira.
-description: rehtsira.
+description: rehtsira
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "rehtsira.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: rehtsira.
-user_description: rehtsira.description
-user_title: rehtsira.title
+user_description: CIST
+user_title: Computer Information Systems and Technology
 email: rehtsira@gmail.com
-twitter_username: rehtsira.twitter
-github_username:  rehtsira.github
-gplus_username:  rehtsira.gplus
+twitter_username:
+github_username: rehtsira  
+gplus_username:  
 
 # Google-analytics
 google-analytics:

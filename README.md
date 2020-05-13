@@ -1,2 +1,1 @@
-github pages site using jekyll
-
+Minimal website portfolio.
